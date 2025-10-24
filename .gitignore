@@ -1,0 +1,8 @@
+# Ignore volatile UI-related state
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/app.json
+
+.DS_Store
+Thumbs.db
